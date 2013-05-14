@@ -1,4 +1,3 @@
-perlv2quickstartstest
-=====================
+The OpenShift `perl` cartridge documentation can be found at:
 
-This is for Testing ONLY
+https://github.com/openshift/origin-server/tree/master/cartridges/openshift-origin-cartridge-perl/README.md
